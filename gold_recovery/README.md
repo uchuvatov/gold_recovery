@@ -8,4 +8,4 @@
 
 ## Используемые библиотеки
 
-*pandas, sklearn*
+*numpy, pandas, matplotlib, sklearn, sweetviz*
